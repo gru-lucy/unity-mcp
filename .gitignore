@@ -35,7 +35,6 @@ CONTRIBUTING.md.meta
 
 # IDE
 .idea/
-.vscode/
 .aider*
 .DS_Store*
 # Unity test project lock files
@@ -58,3 +57,5 @@ reports/
 
 # Local testing harness
 scripts/local-test/
+config.bat
+node_modules
